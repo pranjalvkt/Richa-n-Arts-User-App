@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752831956298",
+    "firebase_url": "https://rich-n-art.firebaseio.com",
+    "project_id": "rich-n-art",
+    "storage_bucket": "rich-n-art.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752831956298:android:aa254be6de980cac472db3",
+        "android_client_info": {
+          "package_name": "com.richnart.rich_n_art"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752831956298-fbuc7bhhlvp7e7t2k4ftdvfv22aj8mbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpkQPZEiW69gStQkmZ5se4yVETTrvDqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752831956298-fbuc7bhhlvp7e7t2k4ftdvfv22aj8mbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
